@@ -1,3 +1,3 @@
 # Kokoa Clone 2020 Update
 
-HTML & CSS are so much fun!
+#### URL: https://junho-baek.github.io/kakaoClone/
